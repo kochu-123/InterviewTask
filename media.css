@@ -1,0 +1,50 @@
+    body {
+        background-color: aquamarine;
+    }
+    
+    @media only screen and (max-width: 700px) {
+        body {
+            background-color: royalblue;
+        }
+        table {
+            background-color: crimson;
+            color: white;
+            border-color: white;
+            width: 600px;
+            font-size: 30px;
+        }
+        p {
+            color: aqua;
+        }
+        #d1 {
+            background-color: grey;
+            font-family: sans-serif;
+            color: red;
+        }
+        #d3 {
+            background-color: grey;
+            font-family: sans-serif;
+            color: red;
+        }
+        #d5 {
+            background-color: grey;
+            font-family: sans-serif;
+            color: red;
+        }
+    }
+    
+    table,
+    tr,
+    td,
+    th {
+        border: 1px solid black;
+    }
+    
+    tr,
+    td,
+    th {
+        padding: 20px;
+    }
+    /* legend {
+        visibility: hidden;
+    } */

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,
+        td,
+        th,
+        tr {
+            border: 3px solid black;
+        }
+        
+        table {
+            border-collapse: collapse;
+            height: 600px;
+            width: 600px;
+            font-size: 30px;
+            font-weight: 800;
+            color: white;
+        }
+        
+        td {
+            text-align: center;
+        }
+        
+        #h1 {
+            background-color: rgb(76, 54, 95);
+        }
+        
+        #h2 {
+            background-color: rgb(84, 174, 204);
+        }
+        
+        #h3 {
+            background-color: rgb(233, 155, 155);
+        }
+        
+        #h4 {
+            background-color: rgb(17, 85, 107);
+        }
+        
+        #h5 {
+            background-color: brown;
+        }
+        
+        #h6 {
+            background-color: blueviolet;
+        }
+        
+        body {
+            padding-left: 370px;
+            /* padding-top: 10px; */
+        }
+        
+        caption {
+            font-size: 30px;
+            font-weight: 800;
+            color: grey;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <caption>HTML Layout</caption>
+        <tr id="h1">
+            <th colspan="2">HEADER</th>
+        </tr>
+        <tr id="h2">
+            <td colspan="2">NAV</td>
+        </tr>
+        <tr>
+            <td id="h3">SECTION</td>
+            <td rowspan="2" id="h4">ASIDE</td>
+
+        </tr>
+        <tr>
+            <td id="h5">ARTICLE</td>
+        </tr>
+        <tr id="h6">
+            <td colspan="2">FOOTER</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>

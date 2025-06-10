@@ -1,0 +1,466 @@
+        * {
+            padding: 0px;
+            margin: 0px;
+        }
+        
+        #d1 {
+            height: 180px;
+            width: 100%;
+            background-color: rgb(9, 69, 148);
+        }
+        
+        body {
+            background-color: rgb(231, 227, 227);
+        }
+        
+        #d2 {
+            padding-top: 20px;
+            padding-left: 270px;
+        }
+        
+        #d3 {
+            height: 160px;
+            width: 800px;
+            background-color: rgb(202, 223, 247);
+            border-radius: 15px 0px 0px 0px;
+        }
+        
+        #d4 {
+            /* padding-top: 20px; */
+            padding-left: 40px;
+        }
+        
+        #d5 {
+            height: 80px;
+            width: 720px;
+            /* border: 1px solid black; */
+        }
+        
+        #nav {
+            float: left;
+        }
+        
+        #n1 {
+            height: 35px;
+            width: 70px;
+            float: left;
+            text-align: center;
+            background-color: rgb(7, 98, 218);
+            padding-top: 15px;
+        }
+        
+        .n2 {
+            height: 35px;
+            width: 80px;
+            float: left;
+            text-align: center;
+            background-color: rgb(9, 69, 148);
+            padding-top: 15px;
+        }
+        
+        #n3 {
+            height: 35px;
+            width: 330px;
+            float: left;
+            text-align: center;
+            background-color: rgb(9, 69, 148);
+            padding-top: 15px;
+        }
+        
+        a {
+            text-decoration: none;
+            color: white;
+        }
+        
+        #inc1 {
+            background-color: white;
+        }
+        
+        #inc2 {
+            color: rgb(2, 2, 134);
+            font-size: 20px;
+        }
+        
+        #d6 {
+            float: right;
+        }
+        
+        #d7 {
+            height: 80px;
+            width: 200px;
+            /* border: 1px solid black; */
+            float: left;
+        }
+        
+        #h1 {
+            color: rgb(5, 5, 150);
+            font-family: sans-serif;
+        }
+        
+        #h2 {
+            color: rgb(6, 138, 182);
+            font-family: sans-serif;
+        }
+        
+        #d8 {
+            /* background-color: ; */
+            float: left;
+            padding-left: 320px;
+            padding-top: 17px;
+        }
+        
+        #d81 {
+            float: left;
+            height: 26px;
+            width: 170px;
+            border: .1px solid rgb(155, 151, 151);
+        }
+        
+        #d82 {
+            float: left;
+            height: 28px;
+            width: 26px;
+            border-radius: 0px 13px 13px 0px;
+            background-color: rgb(0, 81, 255);
+            border: 1px solid rgb(0, 81, 255);
+        }
+        
+        #d91 {
+            height: 1300px;
+            width: 800px;
+            background-color: white;
+        }
+        
+        #d9 {
+            padding-left: 270px;
+        }
+        
+        #d93 {
+            height: 470px;
+            width: 100%;
+        }
+        
+        #box1 {
+            height: 45px;
+            width: 220px;
+            background-color: rgb(7, 60, 141);
+            color: white;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            font-weight: 4px;
+            border: .1px solid white;
+        }
+        
+        #ic {
+            float: left;
+            padding-top: 12px;
+            padding-left: 10px;
+        }
+        
+        #ic1 {
+            float: left;
+            padding-left: 10px;
+            padding-top: 10px;
+        }
+        
+        #divs {
+            padding: 20px;
+            height: 430px;
+            width: 250px;
+            float: left;
+        }
+        
+        .box2 {
+            height: 45px;
+            width: 220px;
+            background-color: rgb(42, 109, 211);
+            color: white;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 11px;
+            border: .1px solid white;
+            font-weight: 5px;
+        }
+        
+        #img1 {
+            background-image: url('beauty.jpg');
+            height: 420px;
+            width: 480px;
+            background-size: cover;
+        }
+        
+        #im {
+            height: 450px;
+            width: 500px;
+            float: left;
+            padding-top: 20px;
+        }
+        
+        #d94 {
+            height: 300px;
+            width: 779px;
+            padding-left: 20px;
+            background-color: rgb(245, 240, 240);
+        }
+        
+        #ic1 {
+            float: left;
+        }
+        
+        .bx11 {
+            height: 280px;
+            width: 257px;
+            float: left;
+        }
+        
+        #bx1 {
+            height: 40px;
+            width: 230px;
+            border-radius: 0px 0px 10px 0px;
+            background-color: rgb(235, 15, 88);
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            float: left;
+        }
+        
+        .ic11 {
+            float: left;
+            padding-top: 5px;
+            padding-left: 10px;
+            font-size: 17px;
+        }
+        
+        #bx2 {
+            height: 40px;
+            width: 230px;
+            border-radius: 0px 0px 10px 0px;
+            background-color: rgb(235, 136, 23);
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            float: left;
+        }
+        
+        #bx3 {
+            height: 40px;
+            width: 230px;
+            border-radius: 0px 0px 10px 0px;
+            background-color: rgb(11, 175, 11);
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            float: left;
+        }
+        
+        #t1 {
+            height: 46px;
+            width: 240px;
+            margin-top: 50px;
+            color: rgb(235, 15, 88);
+        }
+        
+        .t11 {
+            height: 130px;
+            width: 240px;
+            color: rgb(151, 150, 150);
+        }
+        
+        #t2 {
+            height: 46px;
+            width: 240px;
+            margin-top: 50px;
+            color: rgb(235, 136, 23);
+        }
+        
+        #t3 {
+            height: 46px;
+            width: 240px;
+            margin-top: 50px;
+            color: rgb(11, 175, 11);
+        }
+        
+        #k1 {
+            height: 40px;
+            width: 160px;
+            background-color: rgb(235, 15, 88);
+            color: white;
+            border-radius: 0px 20px 20px 0px;
+        }
+        
+        #hh {
+            float: left;
+            font-size: 15px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding-top: 7px;
+            padding-left: 12px;
+        }
+        
+        #hh1 {
+            float: left;
+            padding-left: 10px;
+            padding-top: 10px;
+        }
+        
+        #k2 {
+            height: 40px;
+            width: 160px;
+            background-color: rgb(235, 136, 23);
+            color: white;
+            border-radius: 0px 20px 20px 0px;
+        }
+        
+        #k3 {
+            height: 40px;
+            width: 160px;
+            background-color: rgb(11, 175, 11);
+            color: white;
+            border-radius: 0px 20px 20px 0px;
+        }
+        
+        #d95 {
+            height: 400px;
+            width: 100%;
+            background-color: rgb(244, 249, 253);
+        }
+        
+        #dd1 {
+            margin: 10px;
+            height: 360px;
+            width: 770px;
+        }
+        
+        #dd2 {
+            height: 360px;
+            width: 250px;
+            float: left;
+        }
+        
+        #dd3 {
+            height: 360px;
+            width: 245px;
+            float: left;
+            margin-left: 8px;
+        }
+        
+        #dd4 {
+            height: 360px;
+            width: 252px;
+            float: left;
+            margin-left: 9px;
+        }
+        
+        .tx {
+            height: 40px;
+            width: 190px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 17px;
+            color: rgb(7, 60, 141);
+        }
+        
+        #tx1 {
+            height: 50px;
+            width: 250px;
+            color: rgb(43, 226, 226);
+        }
+        
+        #tx2 {
+            height: 200px;
+            width: 250px;
+            color: rgb(151, 150, 150);
+        }
+        
+        .btt {
+            height: 40px;
+            width: 160px;
+            background-color: rgb(12, 118, 204);
+            color: white;
+            border-radius: 0px 20px 20px 0px;
+        }
+        
+        table,
+        tr.tab1 {
+            padding-top: 10px;
+        }
+        
+        table,
+        tr.tab2 {
+            padding-bottom: 20px;
+        }
+        
+        table,
+        tr.tab3 {
+            padding-left: 10px;
+        }
+        
+        #c {
+            color: rgb(235, 136, 23);
+            font-weight: 800;
+        }
+        
+        #cc {
+            color: rgb(17, 152, 214);
+            font-weight: 800;
+        }
+        
+        #tt1 {
+            height: 254px;
+            width: 240px;
+        }
+        
+        #imm {
+            height: 115px;
+            width: 270px;
+        }
+        
+        #imk {
+            height: 100px;
+            width: 108px;
+            float: left;
+        }
+        
+        #ck {
+            height: 100px;
+            width: 132px;
+            float: left;
+            padding-left: 10px;
+            padding-top: 5px;
+        }
+        
+        #cl {
+            padding-top: 2px;
+            float: left;
+        }
+        
+        #cl1 {
+            float: left;
+            padding-left: 10px;
+            color: rgb(235, 15, 88);
+        }
+        
+        #tx3 {
+            color: rgb(43, 226, 226);
+        }
+        
+        #cj {
+            height: 30px;
+        }
+        
+        #imm1 {
+            height: 120px;
+            width: 270px;
+            margin-top: 10px;
+        }
+        
+        #cckk {
+            height: 80px;
+            width: 100%;
+            background-color: rgb(255, 255, 255);
+        }
+        
+        i {
+            color: rgb(43, 174, 226);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding-left: 20px;
+        }
+        
+        #kj {
+            padding-top: 25px;
+            padding-left: 25px;
+        }

@@ -1,0 +1,208 @@
+* {
+    margin-left: 1rem;
+    padding: 0px;
+}
+
+body {
+    align-items: center;
+    background-color: antiquewhite;
+    margin-bottom: 10rem;
+}
+
+.container {
+    background-color: #163651;
+    color: white;
+    font: Montserrat;
+    height: 40px;
+    width: 1280px;
+    /* margin-top: 1rem; */
+}
+
+.img1 {
+    padding-top: 10px;
+    float: left;
+}
+
+.head-div {
+    background-color: white;
+    height: 112px;
+    width: 1280px;
+}
+
+.img2 {
+    float: right;
+    padding-top: 7px;
+    padding-right: 40px;
+}
+
+.abc {
+    float: right;
+}
+
+.bgd {
+    height: 656px;
+    width: 1280px;
+    background-image: url('taskimg/bg.png');
+    background-repeat: no-repeat;
+}
+
+.bg1 {
+    float: left;
+    padding-top: 200px;
+}
+
+.mh {
+    margin-left: 40px;
+    color: white;
+    width: 560px;
+    height: 134px;
+}
+
+.fnt {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-size: 55px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 55px;
+    font-weight: 600;
+}
+
+h2 {
+    opacity: 0;
+    transform: scale(0.95);
+    animation: zoomIn 1s ease-out forwards;
+    animation-delay: 0.2s;
+}
+
+h3 {
+    opacity: 0;
+    transform: translateX(-30px);
+    animation: fadeLeft 1s ease-out forwards;
+    animation-delay: 0.4s;
+}
+
+@keyframes zoomIn {
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes fadeLeft {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.para {
+    width: 440px;
+    margin-top: 50px;
+    margin-left: 30px;
+    color: white;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeSlideUp 1s ease-out forwards;
+    animation-delay: 0.3s;
+}
+
+@keyframes fadeSlideUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+button {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: 400;
+    background-color: turquoise;
+    margin-left: 30px;
+    height: 45px;
+    width: 120px;
+    border: 1px solid turquoise;
+    border-radius: 20px;
+}
+
+.bg2 {
+    float: right;
+    margin-top: 70px;
+}
+
+.final {
+    background-color: white;
+    width: 1280px;
+    height: 390px;
+}
+
+.b1 {
+    background-color: turquoise;
+    height: 55px;
+    width: 55px;
+    border: 1px solid turquoise;
+    border-radius: 25px;
+    margin-left: 5px;
+    margin-top: 100px;
+}
+
+.im {
+    margin: 5px;
+}
+
+.hh {
+    font-family: 'Poppins', sans-serif;
+    width: 170px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 30px;
+}
+
+.pp {
+    font-family: 'Poppins', sans-serif;
+    width: 368;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.f1 {
+    height: 300px;
+    width: 360px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 40px;
+    float: left;
+}
+
+.f2 {
+    height: 300px;
+    width: 360px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 40px;
+    float: left;
+}
+
+.f3 {
+    height: 300px;
+    width: 360px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 40px;
+    float: left;
+}

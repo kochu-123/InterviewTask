@@ -1,0 +1,24 @@
+#d1 {
+    height: 300px;
+    width: 97%;
+}
+
+#d2 {
+    height: 500px;
+    width: 97%;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+#t1 {
+    width: 500px;
+}

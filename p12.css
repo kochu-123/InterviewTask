@@ -1,0 +1,317 @@
+                                                        * {
+                                                            padding: 0px;
+                                                            margin: 0px;
+                                                        }
+                                                        
+                                                        #d1 {
+                                                            height: 100px;
+                                                            width: 100%;
+                                                            background-color: rgb(66 103 178);
+                                                        }
+                                                        
+                                                        #d2 {
+                                                            height: 500px;
+                                                            width: 100%;
+                                                            background-color: rgb(247, 241, 241);
+                                                        }
+                                                        
+                                                        #d11 {
+                                                            float: left;
+                                                            padding-left: 200px;
+                                                            padding-top: 36px;
+                                                            color: white;
+                                                            font-family: Arial, Arial, Helvetica, sans-serif;
+                                                            font-size: 40px;
+                                                            font-weight: 600;
+                                                        }
+                                                        
+                                                        #d12 {
+                                                            float: left;
+                                                            padding-left: 400px;
+                                                            padding-top: 10px;
+                                                            color: white;
+                                                            font-family: Arial, Arial, Helvetica, sans-serif;
+                                                            font-size: 12px;
+                                                        }
+                                                        
+                                                        .c1 {
+                                                            width: 120px;
+                                                            height: 20px;
+                                                        }
+                                                        
+                                                        .td1 {
+                                                            padding-left: 8px;
+                                                        }
+                                                        
+                                                        #td2 {
+                                                            padding-left: 15px;
+                                                        }
+                                                        
+                                                        #b {
+                                                            width: 50px;
+                                                            height: 25px;
+                                                            background-color: rgb(42, 87, 175);
+                                                            border: 2px solid rgb(18, 64, 156);
+                                                            color: white;
+                                                        }
+                                                        
+                                                        #im1 {
+                                                            background-image: url(imgg.jpg);
+                                                            height: 200px;
+                                                            width: 200px;
+                                                            /* float: left; */
+                                                        }
+                                                        
+                                                        #im2 {
+                                                            background-image: url(th.jpg);
+                                                            height: 200px;
+                                                            width: 200px;
+                                                            /* float: left; */
+                                                        }
+                                                        
+                                                        .c2 {
+                                                            border-radius: 10px;
+                                                            background-color: rgb(248, 76, 76);
+                                                            height: 20px;
+                                                            width: 20px;
+                                                            border: 1px solid red;
+                                                            color: white;
+                                                        }
+                                                        
+                                                        .c3 {
+                                                            padding-left: 180px;
+                                                        }
+                                                        
+                                                        .c4 {
+                                                            height: 40px;
+                                                            width: 150px;
+                                                            background-color: white;
+                                                            padding-left: 50px;
+                                                            padding-top: 20px;
+                                                        }
+                                                        
+                                                        .c5 {
+                                                            color: grey;
+                                                        }
+                                                        
+                                                        #d21 {
+                                                            height: 400px;
+                                                            width: 450px;
+                                                            float: left;
+                                                            font-family: Arial, Arial, Helvetica, sans-serif;
+                                                            padding-top: 20px;
+                                                        }
+                                                        
+                                                        #dd {
+                                                            float: left;
+                                                            height: 250px;
+                                                            width: 200px;
+                                                        }
+                                                        
+                                                        #dd1 {
+                                                            float: left;
+                                                            height: 250px;
+                                                            width: 200px;
+                                                            padding-left: 15px;
+                                                        }
+                                                        
+                                                        #d211 {
+                                                            padding-left: 200px;
+                                                            float: left;
+                                                        }
+                                                        
+                                                        h1 {
+                                                            height: 40px;
+                                                        }
+                                                        
+                                                        h4 {
+                                                            color: grey;
+                                                            height: 35px;
+                                                        }
+                                                        
+                                                        #d22 {
+                                                            height: 470px;
+                                                            width: 570px;
+                                                            /* border: 1px solid black; */
+                                                            float: left;
+                                                            padding-top: 20px;
+                                                            font-family: Arial, Arial, Helvetica, sans-serif;
+                                                        }
+                                                        
+                                                        h3 {
+                                                            color: rgb(117, 117, 117);
+                                                        }
+                                                        
+                                                        #b1 {
+                                                            height: 30px;
+                                                            width: 200px;
+                                                            border: 2px solid rgb(248, 115, 115);
+                                                            border-radius: 5px;
+                                                            float: left;
+                                                            background-color: white;
+                                                            padding-top: 10px;
+                                                            padding-top: 10px;
+                                                            padding-left: 5px;
+                                                        }
+                                                        
+                                                        #b2 {
+                                                            height: 30px;
+                                                            width: 200px;
+                                                            border: 2px solid rgb(248, 115, 115);
+                                                            border-radius: 5px;
+                                                            float: left;
+                                                            background-color: white;
+                                                            padding-top: 10px;
+                                                            padding-left: 5px;
+                                                        }
+                                                        
+                                                        #b3 {
+                                                            height: 30px;
+                                                            width: 419px;
+                                                            border: 2px solid rgb(248, 115, 115);
+                                                            border-radius: 5px;
+                                                            background-color: white;
+                                                            padding-top: 10px;
+                                                            padding-left: 5px;
+                                                        }
+                                                        
+                                                        #b4 {
+                                                            height: 30px;
+                                                            width: 419px;
+                                                            border: 2px solid rgb(248, 115, 115);
+                                                            border-radius: 5px;
+                                                            background-color: white;
+                                                            padding-top: 10px;
+                                                            padding-left: 5px;
+                                                            margin-top: 8px;
+                                                        }
+                                                        
+                                                        .c6 {
+                                                            height: 50px;
+                                                        }
+                                                        
+                                                        o #c7 {
+                                                            height: 47px;
+                                                            width: 420px;
+                                                        }
+                                                        
+                                                        #b5 {
+                                                            padding-left: 10px;
+                                                            height: 40px;
+                                                            width: 200px;
+                                                            float: left;
+                                                        }
+                                                        
+                                                        .c11 {
+                                                            border: none;
+                                                            width: 120px;
+                                                            font-size: 17px;
+                                                            outline: none;
+                                                        }
+                                                        
+                                                        .c12 {
+                                                            border: none;
+                                                            width: 250px;
+                                                            font-size: 17px;
+                                                            outline: none;
+                                                        }
+                                                        
+                                                        .c22 {
+                                                            border-radius: 10px;
+                                                            background-color: rgb(248, 76, 76);
+                                                            height: 20px;
+                                                            width: 20px;
+                                                            border: 1px solid red;
+                                                            color: white;
+                                                        }
+                                                        
+                                                        #l1 {
+                                                            float: left;
+                                                        }
+                                                        
+                                                        #r1 {
+                                                            float: right;
+                                                        }
+                                                        
+                                                        #l2 {
+                                                            float: left;
+                                                        }
+                                                        
+                                                        #r2 {
+                                                            float: right;
+                                                        }
+                                                        
+                                                        #l3 {
+                                                            float: left;
+                                                        }
+                                                        
+                                                        #r3 {
+                                                            float: right;
+                                                        }
+                                                        
+                                                        #l4 {
+                                                            float: left;
+                                                        }
+                                                        
+                                                        #r4 {
+                                                            float: right;
+                                                        }
+                                                        
+                                                        #d23 {
+                                                            height: 175px;
+                                                        }
+                                                        
+                                                        #d231 {
+                                                            height: 30px;
+                                                            font-size: 18px;
+                                                        }
+                                                        
+                                                        #d232 {
+                                                            height: 30px;
+                                                        }
+                                                        
+                                                        #d233 {
+                                                            height: 30px;
+                                                        }
+                                                        
+                                                        #d234 {
+                                                            height: 30px;
+                                                            width: 300px;
+                                                            color: grey;
+                                                        }
+                                                        
+                                                        #d24 {
+                                                            height: 40px;
+                                                            width: 200px;
+                                                            border: 1px solid rgb(67, 160, 67);
+                                                            border-radius: 10px;
+                                                            background-color: rgb(67, 160, 67);
+                                                            color: white;
+                                                            font-family: Arial, Arial, Helvetica, sans-serif;
+                                                        }
+                                                        
+                                                        #d241 {
+                                                            padding-left: 25px;
+                                                            padding-top: 9px;
+                                                            font-size: 20px;
+                                                        }
+                                                        
+                                                        #d25 {
+                                                            height: 40px;
+                                                            width: 400px;
+                                                            padding-top: 20px;
+                                                            color: rgb(71, 71, 128);
+                                                            font-family: Arial, Arial, Helvetica, sans-serif;
+                                                        }
+                                                        
+                                                        #d212 {
+                                                            padding-left: 50px;
+                                                            float: left;
+                                                        }
+                                                        
+                                                        #tt {
+                                                            font-size: 10px;
+                                                            width: 130px;
+                                                            padding-left: 5px;
+                                                            color: rgb(71, 71, 128);
+                                                        }
